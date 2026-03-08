@@ -24,7 +24,7 @@ Proposed features:
 2) Automated closed loop system.
 3) Remote Capability via WiFi.
 
-* Code Status: The coe is conceptual code written for demonstration purposes.
+* Code Status: This is a conceptual code written for demonstration purposes.
 
 ⚠️ Note:
 1) The code has **not been tested on physical hardware**
