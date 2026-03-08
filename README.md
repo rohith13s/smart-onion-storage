@@ -24,5 +24,5 @@ Proposed features:
 2) Automated closed loop system.
 3) Remote Capability via WiFi.
 
-OnionStorageReport.docx - this is a detailed project report.
+OnionStorage.docx - this is a detailed project report.
 OnionStorage.kicad_sch - this is a proposed hardware schematic.
