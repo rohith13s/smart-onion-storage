@@ -17,12 +17,12 @@ Sensors Used:
 4) DHT22
 
 Controller: 
--ESP-32
+ESP-32
 
 Proposed features: 
 1) Monitors Enviormental Data.
 2) Automated closed loop system.
 3) Remote Capability via WiFi.
 
--OnionStorage.docx - this is a detailed project report.
--OnionStorage.kicad_sch - this is a proposed hardware schematic.
+* OnionStorage.docx - this is a detailed project report.
+* OnionStorage.kicad_sch - this is a proposed hardware schematic.
