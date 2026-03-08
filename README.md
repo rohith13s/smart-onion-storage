@@ -24,5 +24,11 @@ Proposed features:
 2) Automated closed loop system.
 3) Remote Capability via WiFi.
 
-* OnionStorage.docx - this is a detailed project report.
-* OnionStorage.kicad_sch - this is a proposed hardware schematic.
+* Code Status: The coe is conceptual code written for demonstration purposes.
+
+⚠️ Note:
+1) The code has **not been tested on physical hardware**
+2) Hardware calibration and integration are still required
+
+The code is intended to demonstrate the **control logic and system workflow**
+rather than a production-ready implementation.
